@@ -101,8 +101,8 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 **Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your_profile)
+- GitHub: [@your_username](https://github.com/AdityaC-07)
+- LinkedIn: [Your Profile](https://linkedin.com/in/aditya-choudhuri-87a2a034a)
 
 ## 🙏 Acknowledgments
 - ML Challenge 2025 organizers
