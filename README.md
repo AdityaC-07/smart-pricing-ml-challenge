@@ -280,7 +280,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Team
 
-**Project by**: [Your Name]
+**Project by**: Aditya Choudhuri
 
 - 🌐 GitHub: [@your_username](https://github.com/AdityaC-07)
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your_profile/aditya-choudhuri-87a2a034a)
