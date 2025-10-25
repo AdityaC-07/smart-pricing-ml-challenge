@@ -107,3 +107,13 @@ This project is licensed under the MIT License.
 ## 🙏 Acknowledgments
 - ML Challenge 2025 organizers
 - Scikit-learn and LightGBM communities
+
+  ## 📥 Dataset
+Dataset files are not included in this repository due to size limitations.
+
+**To get the dataset:**
+1. Download from [ML Challenge 2025 Portal](competition-link)
+2. Place files in `dataset/` folder:
+   - `train.csv`
+   - `test.csv`
+   - `sample_test_out.csv`
